@@ -36,7 +36,6 @@ namespace SchoolFormsApp
             }
             MessageBox.Show(testSchool.ToString());
 
-
         }
 
         private void btnTestTeacher_Click(object sender, EventArgs e)

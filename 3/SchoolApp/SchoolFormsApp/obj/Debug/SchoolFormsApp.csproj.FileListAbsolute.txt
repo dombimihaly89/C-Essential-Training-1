@@ -1,0 +1,13 @@
+C:\Users\dombi\OneDrive\Asztali gép\C#\3\SchoolApp\SchoolFormsApp\bin\Debug\SchoolFormsApp.exe.config
+C:\Users\dombi\OneDrive\Asztali gép\C#\3\SchoolApp\SchoolFormsApp\bin\Debug\SchoolFormsApp.exe
+C:\Users\dombi\OneDrive\Asztali gép\C#\3\SchoolApp\SchoolFormsApp\bin\Debug\SchoolFormsApp.pdb
+C:\Users\dombi\OneDrive\Asztali gép\C#\3\SchoolApp\SchoolFormsApp\bin\Debug\SchoolLibrary.dll
+C:\Users\dombi\OneDrive\Asztali gép\C#\3\SchoolApp\SchoolFormsApp\bin\Debug\SchoolLibrary.pdb
+C:\Users\dombi\OneDrive\Asztali gép\C#\3\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.csprojAssemblyReference.cache
+C:\Users\dombi\OneDrive\Asztali gép\C#\3\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.Form1.resources
+C:\Users\dombi\OneDrive\Asztali gép\C#\3\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.Properties.Resources.resources
+C:\Users\dombi\OneDrive\Asztali gép\C#\3\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.csproj.GenerateResource.cache
+C:\Users\dombi\OneDrive\Asztali gép\C#\3\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\dombi\OneDrive\Asztali gép\C#\3\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.csproj.CopyComplete
+C:\Users\dombi\OneDrive\Asztali gép\C#\3\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.exe
+C:\Users\dombi\OneDrive\Asztali gép\C#\3\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.pdb

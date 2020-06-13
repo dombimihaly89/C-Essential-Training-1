@@ -1,0 +1,12 @@
+C:\Users\dombi\OneDrive\Asztali gép\C#\2\ConstantsEnums\ConstantsEnums\bin\Debug\netcoreapp3.1\ConstantsEnums.exe
+C:\Users\dombi\OneDrive\Asztali gép\C#\2\ConstantsEnums\ConstantsEnums\bin\Debug\netcoreapp3.1\ConstantsEnums.deps.json
+C:\Users\dombi\OneDrive\Asztali gép\C#\2\ConstantsEnums\ConstantsEnums\bin\Debug\netcoreapp3.1\ConstantsEnums.runtimeconfig.json
+C:\Users\dombi\OneDrive\Asztali gép\C#\2\ConstantsEnums\ConstantsEnums\bin\Debug\netcoreapp3.1\ConstantsEnums.runtimeconfig.dev.json
+C:\Users\dombi\OneDrive\Asztali gép\C#\2\ConstantsEnums\ConstantsEnums\bin\Debug\netcoreapp3.1\ConstantsEnums.dll
+C:\Users\dombi\OneDrive\Asztali gép\C#\2\ConstantsEnums\ConstantsEnums\bin\Debug\netcoreapp3.1\ConstantsEnums.pdb
+C:\Users\dombi\OneDrive\Asztali gép\C#\2\ConstantsEnums\ConstantsEnums\obj\Debug\netcoreapp3.1\ConstantsEnums.AssemblyInfoInputs.cache
+C:\Users\dombi\OneDrive\Asztali gép\C#\2\ConstantsEnums\ConstantsEnums\obj\Debug\netcoreapp3.1\ConstantsEnums.AssemblyInfo.cs
+C:\Users\dombi\OneDrive\Asztali gép\C#\2\ConstantsEnums\ConstantsEnums\obj\Debug\netcoreapp3.1\ConstantsEnums.csproj.CoreCompileInputs.cache
+C:\Users\dombi\OneDrive\Asztali gép\C#\2\ConstantsEnums\ConstantsEnums\obj\Debug\netcoreapp3.1\ConstantsEnums.dll
+C:\Users\dombi\OneDrive\Asztali gép\C#\2\ConstantsEnums\ConstantsEnums\obj\Debug\netcoreapp3.1\ConstantsEnums.pdb
+C:\Users\dombi\OneDrive\Asztali gép\C#\2\ConstantsEnums\ConstantsEnums\obj\Debug\netcoreapp3.1\ConstantsEnums.genruntimeconfig.cache

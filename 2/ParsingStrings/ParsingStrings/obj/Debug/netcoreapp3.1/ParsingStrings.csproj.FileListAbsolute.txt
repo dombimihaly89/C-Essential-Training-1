@@ -1,0 +1,12 @@
+C:\Users\dombi\OneDrive\Asztali gép\C#\2\ParsingStrings\ParsingStrings\bin\Debug\netcoreapp3.1\ParsingStrings.exe
+C:\Users\dombi\OneDrive\Asztali gép\C#\2\ParsingStrings\ParsingStrings\bin\Debug\netcoreapp3.1\ParsingStrings.deps.json
+C:\Users\dombi\OneDrive\Asztali gép\C#\2\ParsingStrings\ParsingStrings\bin\Debug\netcoreapp3.1\ParsingStrings.runtimeconfig.json
+C:\Users\dombi\OneDrive\Asztali gép\C#\2\ParsingStrings\ParsingStrings\bin\Debug\netcoreapp3.1\ParsingStrings.runtimeconfig.dev.json
+C:\Users\dombi\OneDrive\Asztali gép\C#\2\ParsingStrings\ParsingStrings\bin\Debug\netcoreapp3.1\ParsingStrings.dll
+C:\Users\dombi\OneDrive\Asztali gép\C#\2\ParsingStrings\ParsingStrings\bin\Debug\netcoreapp3.1\ParsingStrings.pdb
+C:\Users\dombi\OneDrive\Asztali gép\C#\2\ParsingStrings\ParsingStrings\obj\Debug\netcoreapp3.1\ParsingStrings.AssemblyInfoInputs.cache
+C:\Users\dombi\OneDrive\Asztali gép\C#\2\ParsingStrings\ParsingStrings\obj\Debug\netcoreapp3.1\ParsingStrings.AssemblyInfo.cs
+C:\Users\dombi\OneDrive\Asztali gép\C#\2\ParsingStrings\ParsingStrings\obj\Debug\netcoreapp3.1\ParsingStrings.csproj.CoreCompileInputs.cache
+C:\Users\dombi\OneDrive\Asztali gép\C#\2\ParsingStrings\ParsingStrings\obj\Debug\netcoreapp3.1\ParsingStrings.dll
+C:\Users\dombi\OneDrive\Asztali gép\C#\2\ParsingStrings\ParsingStrings\obj\Debug\netcoreapp3.1\ParsingStrings.pdb
+C:\Users\dombi\OneDrive\Asztali gép\C#\2\ParsingStrings\ParsingStrings\obj\Debug\netcoreapp3.1\ParsingStrings.genruntimeconfig.cache

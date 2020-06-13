@@ -1,0 +1,13 @@
+C:\Users\dombi\OneDrive\Asztali gép\C#\2\EverythingIsAnObject\EverythingIsAnObject\bin\Debug\netcoreapp3.1\EverythingIsAnObject.exe
+C:\Users\dombi\OneDrive\Asztali gép\C#\2\EverythingIsAnObject\EverythingIsAnObject\bin\Debug\netcoreapp3.1\EverythingIsAnObject.deps.json
+C:\Users\dombi\OneDrive\Asztali gép\C#\2\EverythingIsAnObject\EverythingIsAnObject\bin\Debug\netcoreapp3.1\EverythingIsAnObject.runtimeconfig.json
+C:\Users\dombi\OneDrive\Asztali gép\C#\2\EverythingIsAnObject\EverythingIsAnObject\bin\Debug\netcoreapp3.1\EverythingIsAnObject.runtimeconfig.dev.json
+C:\Users\dombi\OneDrive\Asztali gép\C#\2\EverythingIsAnObject\EverythingIsAnObject\bin\Debug\netcoreapp3.1\EverythingIsAnObject.dll
+C:\Users\dombi\OneDrive\Asztali gép\C#\2\EverythingIsAnObject\EverythingIsAnObject\bin\Debug\netcoreapp3.1\EverythingIsAnObject.pdb
+C:\Users\dombi\OneDrive\Asztali gép\C#\2\EverythingIsAnObject\EverythingIsAnObject\obj\Debug\netcoreapp3.1\EverythingIsAnObject.AssemblyInfoInputs.cache
+C:\Users\dombi\OneDrive\Asztali gép\C#\2\EverythingIsAnObject\EverythingIsAnObject\obj\Debug\netcoreapp3.1\EverythingIsAnObject.AssemblyInfo.cs
+C:\Users\dombi\OneDrive\Asztali gép\C#\2\EverythingIsAnObject\EverythingIsAnObject\obj\Debug\netcoreapp3.1\EverythingIsAnObject.csproj.CoreCompileInputs.cache
+C:\Users\dombi\OneDrive\Asztali gép\C#\2\EverythingIsAnObject\EverythingIsAnObject\obj\Debug\netcoreapp3.1\EverythingIsAnObject.dll
+C:\Users\dombi\OneDrive\Asztali gép\C#\2\EverythingIsAnObject\EverythingIsAnObject\obj\Debug\netcoreapp3.1\EverythingIsAnObject.pdb
+C:\Users\dombi\OneDrive\Asztali gép\C#\2\EverythingIsAnObject\EverythingIsAnObject\obj\Debug\netcoreapp3.1\EverythingIsAnObject.genruntimeconfig.cache
+C:\Users\dombi\OneDrive\Asztali gép\C#\2\EverythingIsAnObject\EverythingIsAnObject\obj\Debug\netcoreapp3.1\EverythingIsAnObject.csprojAssemblyReference.cache

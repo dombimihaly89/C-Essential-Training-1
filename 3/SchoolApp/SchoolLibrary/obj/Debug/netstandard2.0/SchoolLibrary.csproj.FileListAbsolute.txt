@@ -1,0 +1,9 @@
+C:\Users\dombi\OneDrive\Asztali gép\C#\3\SchoolApp\SchoolLibrary\bin\Debug\netstandard2.0\SchoolLibrary.deps.json
+C:\Users\dombi\OneDrive\Asztali gép\C#\3\SchoolApp\SchoolLibrary\bin\Debug\netstandard2.0\SchoolLibrary.dll
+C:\Users\dombi\OneDrive\Asztali gép\C#\3\SchoolApp\SchoolLibrary\bin\Debug\netstandard2.0\SchoolLibrary.pdb
+C:\Users\dombi\OneDrive\Asztali gép\C#\3\SchoolApp\SchoolLibrary\obj\Debug\netstandard2.0\SchoolLibrary.csprojAssemblyReference.cache
+C:\Users\dombi\OneDrive\Asztali gép\C#\3\SchoolApp\SchoolLibrary\obj\Debug\netstandard2.0\SchoolLibrary.AssemblyInfoInputs.cache
+C:\Users\dombi\OneDrive\Asztali gép\C#\3\SchoolApp\SchoolLibrary\obj\Debug\netstandard2.0\SchoolLibrary.AssemblyInfo.cs
+C:\Users\dombi\OneDrive\Asztali gép\C#\3\SchoolApp\SchoolLibrary\obj\Debug\netstandard2.0\SchoolLibrary.csproj.CoreCompileInputs.cache
+C:\Users\dombi\OneDrive\Asztali gép\C#\3\SchoolApp\SchoolLibrary\obj\Debug\netstandard2.0\SchoolLibrary.dll
+C:\Users\dombi\OneDrive\Asztali gép\C#\3\SchoolApp\SchoolLibrary\obj\Debug\netstandard2.0\SchoolLibrary.pdb

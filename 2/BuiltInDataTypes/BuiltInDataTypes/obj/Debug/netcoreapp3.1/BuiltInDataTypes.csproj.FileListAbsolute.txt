@@ -1,0 +1,13 @@
+C:\Users\dombi\OneDrive\Asztali gép\C#\2\BuiltInDataTypes\BuiltInDataTypes\bin\Debug\netcoreapp3.1\BuiltInDataTypes.exe
+C:\Users\dombi\OneDrive\Asztali gép\C#\2\BuiltInDataTypes\BuiltInDataTypes\bin\Debug\netcoreapp3.1\BuiltInDataTypes.deps.json
+C:\Users\dombi\OneDrive\Asztali gép\C#\2\BuiltInDataTypes\BuiltInDataTypes\bin\Debug\netcoreapp3.1\BuiltInDataTypes.runtimeconfig.json
+C:\Users\dombi\OneDrive\Asztali gép\C#\2\BuiltInDataTypes\BuiltInDataTypes\bin\Debug\netcoreapp3.1\BuiltInDataTypes.runtimeconfig.dev.json
+C:\Users\dombi\OneDrive\Asztali gép\C#\2\BuiltInDataTypes\BuiltInDataTypes\bin\Debug\netcoreapp3.1\BuiltInDataTypes.dll
+C:\Users\dombi\OneDrive\Asztali gép\C#\2\BuiltInDataTypes\BuiltInDataTypes\bin\Debug\netcoreapp3.1\BuiltInDataTypes.pdb
+C:\Users\dombi\OneDrive\Asztali gép\C#\2\BuiltInDataTypes\BuiltInDataTypes\obj\Debug\netcoreapp3.1\BuiltInDataTypes.csprojAssemblyReference.cache
+C:\Users\dombi\OneDrive\Asztali gép\C#\2\BuiltInDataTypes\BuiltInDataTypes\obj\Debug\netcoreapp3.1\BuiltInDataTypes.AssemblyInfoInputs.cache
+C:\Users\dombi\OneDrive\Asztali gép\C#\2\BuiltInDataTypes\BuiltInDataTypes\obj\Debug\netcoreapp3.1\BuiltInDataTypes.AssemblyInfo.cs
+C:\Users\dombi\OneDrive\Asztali gép\C#\2\BuiltInDataTypes\BuiltInDataTypes\obj\Debug\netcoreapp3.1\BuiltInDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\dombi\OneDrive\Asztali gép\C#\2\BuiltInDataTypes\BuiltInDataTypes\obj\Debug\netcoreapp3.1\BuiltInDataTypes.dll
+C:\Users\dombi\OneDrive\Asztali gép\C#\2\BuiltInDataTypes\BuiltInDataTypes\obj\Debug\netcoreapp3.1\BuiltInDataTypes.pdb
+C:\Users\dombi\OneDrive\Asztali gép\C#\2\BuiltInDataTypes\BuiltInDataTypes\obj\Debug\netcoreapp3.1\BuiltInDataTypes.genruntimeconfig.cache

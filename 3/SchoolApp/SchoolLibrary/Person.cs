@@ -16,7 +16,8 @@ namespace SchoolLibrary
 
         // We can use virtual methods in base classes if we want the capability to override it in
         // a subclass. If the method is not abstract nor virtual then we cannot override them.
-        // The difference between them is that you cannot implement an abstract method.
+        // The difference between them is that you cannot implement an abstract method in the base class
+        // but you must implement it in the subclasses.
         public virtual string SendMessage(string message)
         {
             var sb = new StringBuilder();
